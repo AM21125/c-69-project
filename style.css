@@ -1,0 +1,27 @@
+#picture{
+    width:100%;
+    height:500px;
+    border-radius: 5px;
+    border-top-color: gold;
+    border-bottom-color: gold;
+    border-left-color: black;
+    border-right-color: black;
+    margin-left: 300px;
+}
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index:99999;
+}
+.campuslife_mainDiv
+{
+    border: 1px solid lightgray;
+}
+.campuslife_mainDiv img
+{
+width:100%;
+}
+.campuslife_mainDiv h5, .campuslife_mainDiv p
+{
+    margin: 20px;
+}
